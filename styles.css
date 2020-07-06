@@ -1,7 +1,0 @@
-.animate__animated.animate__backInDown {
-  --animate-duration: 2s;
-}
-:root {
-    --animate-duration: 1800ms;
-    --animate-delay: 2.9s;
-  }
